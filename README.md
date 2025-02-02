@@ -30,8 +30,11 @@ _user_session_	Temporary session ID for the user.
 The events captured in the dataset are categorized into the following types:
 
 *View*: User viewed a product.
+
 *Cart*: User added a product to the cart.
+
 *Remove_from_cart*: User removed a product from the cart.
+
 *Purchase*: User completed the purchase of a product.
 
 **Documentation to the Project** - [Documentation](https://docs.google.com/document/d/1A_7HneZBpf_hzWOhCqEYyvJ8kS95vz7OhtgH6pZvdSg/edit?usp=sharing)
